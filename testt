@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer, gethwid()
+game:GetService("Players").LocalPlayer.Name, gethwid()
